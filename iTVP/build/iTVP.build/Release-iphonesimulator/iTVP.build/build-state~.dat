@@ -1,591 +1,0 @@
-TiTVP
-v7
-r0
-t315239292.171427
-cCheck dependencies
-cProcessInfoPlistFile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/Info.plist iTVP-Info.plist
-cCompileXIB /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainWindow.xib
-cCompileXIB /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.xib
-cCompileXIB /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.xib
-cCpResource build/Release-iphonesimulator/iTVP.app/offbutton40x40.png ../offbutton40x40.png
-cCpResource build/Release-iphonesimulator/iTVP.app/onbutton40x40.png ../onbutton40x40.png
-cCpResource build/Release-iphonesimulator/iTVP.app/offbutton.png ../offbutton.png
-cCpResource build/Release-iphonesimulator/iTVP.app/onbutton.png ../onbutton.png
-cCompileXIB /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.xib
-cCpResource build/Release-iphonesimulator/iTVP.app/teste.xml teste.xml
-cCpResource build/Release-iphonesimulator/iTVP.app/logo.png ../../../Desktop/logo.png
-cCpResource build/Release-iphonesimulator/iTVP.app/icon.png ../../../Desktop/icon.png
-cProcessPCH /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-hgkjbpoeirhegzadhsuqmohmxfwr/iTVP_Prefix.pch.gch iTVP_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/main.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/iTVPAppDelegate.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/Classes/iTVPAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/MainViewController.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/NodeListViewController.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/ITVPNode.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPNode.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/DetailNodeViewController.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/ITVPXMLReader.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPXMLReader.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/MyAnnotation.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MyAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/iTVP normal i386
-cGenerateDSYMFile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app.dSYM /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/iTVP
-cTouch /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
-c000000004CC128950000000000000110
-t1287727253
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004CC12246000000000029B310
-t1287725638
-s2732816
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004CC1226D000000000029D5D0
-t1287725677
-s2741712
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004CC1225F0000000000001466
-t1287725663
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
-c000000004CC1294D00000000000002FE
-t1287727437
-s766
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
-c000000004CC12977000000000017E7F0
-t1287727479
-s1566704
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004CC1281F0000000000000AA1
-t1287727135
-s2721
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004CC12883000000000074D7B0
-t1287727235
-s7657392
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdio.h
-c000000004CB3E48600000000000040AC
-t1286857862
-s16556
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../../../Desktop/icon.png
-c000000004D19D1800000000000002CA6
-t1293537664
-s11430
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../../../Desktop/logo.png
-c000000004D19D1800000000000002CA6
-t1293537664
-s11430
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../offbutton.png
-c000000004D15F3AE000000000000F028
-t1293284270
-s61480
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../offbutton40x40.png
-c000000004D15F42C0000000000001B88
-t1293284396
-s7048
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../onbutton.png
-c000000004D15F3A0000000000000F0BC
-t1293284256
-s61628
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../onbutton40x40.png
-c000000004D15F4100000000000001B9E
-t1293284368
-s7070
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/Classes/iTVPAppDelegate.h
-c000000004D149D7C00000000000001CA
-t1293196668
-s458
-i<UIKit/UIKit.h>
-i"MainViewController.h"
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/Classes/iTVPAppDelegate.m
-c000000004D149D9F0000000000000AD4
-t1293196703
-s2772
-i"iTVPAppDelegate.h"
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.h
-c000000004D164B5900000000000002DE
-t1293306713
-s734
-i<UIKit/UIKit.h>
-i<MapKit/MapKit.h>
-i"ITVPNode.h"
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.m
-c000000004D18CF5900000000000008E7
-t1293471577
-s2279
-i"DetailNodeViewController.h"
-i"MyAnnotation.h"
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.xib
-c000000004D19DAE500000000000076AF
-t1293540069
-s30383
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPNode.h
-c000000004D18A323000000000000033F
-t1293460259
-s831
-i<Foundation/Foundation.h>
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPNode.m
-c000000004D18A328000000000000028D
-t1293460264
-s653
-i"ITVPNode.h"
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPXMLReader.h
-c000000004D18A85E00000000000001F2
-t1293461598
-s498
-i<Foundation/Foundation.h>
-i"ITVPNode.h"
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPXMLReader.m
-c000000004D19EEF90000000000000E75
-t1293545209
-s3701
-i"ITVPXMLReader.h"
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.h
-c000000004D18A929000000000000024C
-t1293461801
-s588
-i<UIKit/UIKit.h>
-i"NodeListViewController.h"
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.m
-c000000004D18CC3C0000000000000F0B
-t1293470780
-s3851
-i"MainViewController.h"
-i"ITVPXMLReader.h"
-i<stdio.h>
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.xib
-c000000004D19F3DF000000000000641E
-t1293546463
-s25630
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainWindow.xib
-c000000004D149C6800000000000020F9
-t1293196392
-s8441
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MyAnnotation.h
-c000000004D18CFF300000000000001EB
-t1293471731
-s491
-i<Foundation/Foundation.h>
-i<MapKit/MapKit.h>
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MyAnnotation.m
-c000000004D18CFFC0000000000000141
-t1293471740
-s321
-i"MyAnnotation.h"
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.h
-c000000004D18AA410000000000000413
-t1293462081
-s1043
-i<UIKit/UIKit.h>
-i"DetailNodeViewController.h"
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.m
-c000000004D18AA5B0000000000001438
-t1293462107
-s5176
-i"NodeListViewController.h"
-i"ITVPNode.h"
-i<MapKit/MapKit.h>
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.xib
-c000000004D19DB470000000000005EEC
-t1293540167
-s24300
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app
-t1293546492
-s544
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app.dSYM
-t1293546492
-s102
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/DetailNodeViewController.nib
-t1293546491
-s2937
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/Info.plist
-t1293546489
-s579
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/MainViewController.nib
-t1293546490
-s2547
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/MainWindow.nib
-t1293546490
-s981
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/NodeListViewController.nib
-t1293546491
-s1546
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/PkgInfo
-t1293546489
-s8
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/iTVP
-t1293546492
-s53140
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/icon.png
-t1293546491
-s11430
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/logo.png
-t1293546491
-s11430
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/offbutton.png
-t1293546490
-s61480
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/offbutton40x40.png
-t1293546490
-s7048
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/onbutton.png
-t1293546490
-s61628
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/onbutton40x40.png
-t1293546490
-s7070
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/teste.xml
-t1293546491
-s511
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/DetailNodeViewController.o
-t1293546491
-s49180
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/ITVPNode.o
-t1293546491
-s13460
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/ITVPXMLReader.o
-t1293546492
-s22992
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/MainViewController.o
-t1293546491
-s55748
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/MyAnnotation.o
-t1293546492
-s9628
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/NodeListViewController.o
-t1293546491
-s60148
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/iTVP.LinkFileList
-c000000004D19F3F90000000000000494
-t1293546489
-s1172
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/iTVPAppDelegate.o
-t1293546491
-s51768
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/main.o
-t1293546491
-s6324
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/iTVP_Prefix.pch
-c000000004D149C6800000000000000B1
-t1293196392
-s177
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/main.m
-c000000004D149C680000000000000164
-t1293196392
-s356
-i<UIKit/UIKit.h>
-
-N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/teste.xml
-c000000004D19D72600000000000001FF
-t1293539110
-s511
-
-N/var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-hgkjbpoeirhegzadhsuqmohmxfwr/iTVP_Prefix.pch.gch
-t1293537976
-s15113424
-
-NiTVP-Info.plist
-c000000004D149C68000000000000038D
-t1293196392
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies315239289#315239290#0(0"0(0#1#0"8608754528#0"0#
-
-CCompileC build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/DetailNodeViewController.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s315239291.756138
-e315239291.927264
-r1
-xCompileC
-xbuild/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/DetailNodeViewController.o
-x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@91"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.m315239291#315239291#0(0"0(0#0#83"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.m8617915104#2151"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/DerivedSources/i386 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-hgkjbpoeirhegzadhsuqmohmxfwr/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/DetailNodeViewController.o0#
-
-CCompileC build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/ITVPNode.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPNode.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s315239291.667015
-e315239291.756030
-r1
-xCompileC
-xbuild/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/ITVPNode.o
-x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPNode.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@75"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPNode.m315239291#315239291#0(0"0(0#0#67"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPNode.m8618495616#2119"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/DerivedSources/i386 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-hgkjbpoeirhegzadhsuqmohmxfwr/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPNode.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/ITVPNode.o0#
-
-CCompileC build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/ITVPXMLReader.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPXMLReader.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s315239291.871249
-e315239292.103675
-r1
-xCompileC
-xbuild/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/ITVPXMLReader.o
-x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPXMLReader.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@80"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPXMLReader.m315239291#315239292#0(0"0(0#0#72"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPXMLReader.m8609277600#2129"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/DerivedSources/i386 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-hgkjbpoeirhegzadhsuqmohmxfwr/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPXMLReader.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/ITVPXMLReader.o0#
-
-CCompileC build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/MainViewController.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s315239291.466293
-e315239291.666906
-r1
-xCompileC
-xbuild/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/MainViewController.o
-x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@85"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.m315239291#315239291#0(0"0(0#0#77"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.m8617765920#2139"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/DerivedSources/i386 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-hgkjbpoeirhegzadhsuqmohmxfwr/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/MainViewController.o0#
-
-CCompileC build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/MyAnnotation.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MyAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s315239291.927374
-e315239292.019429
-r1
-xCompileC
-xbuild/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/MyAnnotation.o
-x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MyAnnotation.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@79"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MyAnnotation.m315239291#315239292#0(0"0(0#0#71"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MyAnnotation.m8603188000#2127"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/DerivedSources/i386 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-hgkjbpoeirhegzadhsuqmohmxfwr/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MyAnnotation.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/MyAnnotation.o0#
-
-CCompileC build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/NodeListViewController.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s315239291.571321
-e315239291.871146
-r1
-xCompileC
-xbuild/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/NodeListViewController.o
-x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@89"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.m315239291#315239291#0(0"0(0#0#81"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.m8610684544#2147"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/DerivedSources/i386 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-hgkjbpoeirhegzadhsuqmohmxfwr/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/NodeListViewController.o0#
-
-CCompileC build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/iTVPAppDelegate.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/Classes/iTVPAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s315239291.218107
-e315239291.571150
-r1
-xCompileC
-xbuild/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/iTVPAppDelegate.o
-x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/Classes/iTVPAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@90"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/Classes/iTVPAppDelegate.m315239291#315239291#0(0"0(0#0#82"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/Classes/iTVPAppDelegate.m8618170272#2141"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/DerivedSources/i386 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-hgkjbpoeirhegzadhsuqmohmxfwr/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/Classes/iTVPAppDelegate.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/iTVPAppDelegate.o0#
-
-CCompileC build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/main.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s315239291.216969
-e315239291.466187
-r1
-xCompileC
-xbuild/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/main.o
-x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@71"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/main.m315239291#315239291#0(0"0(0#0#63"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/main.m8618351936#2111"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/DerivedSources/i386 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-hgkjbpoeirhegzadhsuqmohmxfwr/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/main.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.xib
-s315239290.566043
-e315239291.216793
-r1
-xCompileXIB
-x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.xib
-lSLF07#2@39"CompileXIB DetailNodeViewController.xib315239290#315239291#0(0"0(0#0#85"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.xib8609475296#651"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/DetailNodeViewController.nib /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.xib
-s315239289.992036
-e315239290.554000
-r1
-xCompileXIB
-x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.xib
-lSLF07#2@33"CompileXIB MainViewController.xib315239289#315239290#0(0"0(0#0#79"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.xib8619048640#639"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/MainViewController.nib /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainWindow.xib
-s315239289.990178
-e315239290.472560
-r1
-xCompileXIB
-x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib315239289#315239290#0(0"0(0#0#71"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainWindow.xib8609480672#623"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/MainWindow.nib /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.xib
-s315239290.472655
-e315239291.063656
-r1
-xCompileXIB
-x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.xib
-lSLF07#2@37"CompileXIB NodeListViewController.xib315239290#315239291#0(0"0(0#0#83"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.xib8617264896#647"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/NodeListViewController.nib /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCpResource build/Release-iphonesimulator/iTVP.app/icon.png ../../../Desktop/icon.png
-s315239291.067940
-e315239291.078806
-r1
-xCpResource
-xbuild/Release-iphonesimulator/iTVP.app/icon.png
-x../../../Desktop/icon.png
-lSLF07#2@30"Copy ../../../Desktop/icon.png315239291#315239291#0(0"0(0#0#82"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../../../Desktop/icon.png8619246816#557"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../../../Desktop/icon.png /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app0#
-
-CCpResource build/Release-iphonesimulator/iTVP.app/logo.png ../../../Desktop/logo.png
-s315239291.064941
-e315239291.074167
-r1
-xCpResource
-xbuild/Release-iphonesimulator/iTVP.app/logo.png
-x../../../Desktop/logo.png
-lSLF07#2@30"Copy ../../../Desktop/logo.png315239291#315239291#0(0"0(0#0#82"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../../../Desktop/logo.png8607414144#557"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../../../Desktop/logo.png /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app0#
-
-CCpResource build/Release-iphonesimulator/iTVP.app/offbutton.png ../offbutton.png
-s315239290.557861
-e315239290.572502
-r1
-xCpResource
-xbuild/Release-iphonesimulator/iTVP.app/offbutton.png
-x../offbutton.png
-lSLF07#2@21"Copy ../offbutton.png315239290#315239290#0(0"0(0#0#73"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../offbutton.png8610561024#548"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../offbutton.png /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app0#
-
-CCpResource build/Release-iphonesimulator/iTVP.app/offbutton40x40.png ../offbutton40x40.png
-s315239290.554098
-e315239290.572253
-r1
-xCpResource
-xbuild/Release-iphonesimulator/iTVP.app/offbutton40x40.png
-x../offbutton40x40.png
-lSLF07#2@26"Copy ../offbutton40x40.png315239290#315239290#0(0"0(0#0#78"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../offbutton40x40.png8611004992#553"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../offbutton40x40.png /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app0#
-
-CCpResource build/Release-iphonesimulator/iTVP.app/onbutton.png ../onbutton.png
-s315239290.561408
-e315239290.572619
-r1
-xCpResource
-xbuild/Release-iphonesimulator/iTVP.app/onbutton.png
-x../onbutton.png
-lSLF07#2@20"Copy ../onbutton.png315239290#315239290#0(0"0(0#0#72"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../onbutton.png8610276576#547"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../onbutton.png /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app0#
-
-CCpResource build/Release-iphonesimulator/iTVP.app/onbutton40x40.png ../onbutton40x40.png
-s315239290.555220
-e315239290.572387
-r1
-xCpResource
-xbuild/Release-iphonesimulator/iTVP.app/onbutton40x40.png
-x../onbutton40x40.png
-lSLF07#2@25"Copy ../onbutton40x40.png315239290#315239290#0(0"0(0#0#77"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../onbutton40x40.png8610778016#552"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../onbutton40x40.png /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app0#
-
-CCpResource build/Release-iphonesimulator/iTVP.app/teste.xml teste.xml
-s315239291.063746
-e315239291.070680
-r1
-xCpResource
-xbuild/Release-iphonesimulator/iTVP.app/teste.xml
-xteste.xml
-lSLF07#2@14"Copy teste.xml315239291#315239291#0(0"0(0#0#66"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/teste.xml8609817248#541"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/teste.xml /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app0#
-
-CGenerateDSYMFile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app.dSYM /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/iTVP
-s315239292.137407
-e315239292.167588
-r1
-xGenerateDSYMFile
-x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app.dSYM
-x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/iTVP
-lSLF07#2@104"GenerateDSYMFile build/Release-iphonesimulator/iTVP.app.dSYM build/Release-iphonesimulator/iTVP.app/iTVP315239292#315239292#0(0"0(0#0#100"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/iTVP8617767680#432"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/iTVP -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app.dSYM0#
-
-CLd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/iTVP normal i386
-s315239292.103788
-e315239292.137309
-r1
-xLd
-x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/iTVP
-xnormal
-xi386
-lSLF07#2@105"Link /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/iTVP315239292#315239292#0(0"0(0#0#0"8618828640#1001"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator -filelist /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphonesimulator/iTVP.build/Objects-normal/i386/iTVP.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/iTVP0#
-
-CProcessInfoPlistFile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/Info.plist iTVP-Info.plist
-s315239289.977457
-e315239289.990059
-r1
-xProcessInfoPlistFile
-x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/Info.plist
-xiTVP-Info.plist
-lSLF07#2@23"Process iTVP-Info.plist315239289#315239290#0(0"0(0#0#72"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/iTVP-Info.plist8611135456#528"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iTVP-Info.plist -genpkginfo /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app/Info.plist0#
-
-CProcessPCH /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-hgkjbpoeirhegzadhsuqmohmxfwr/iTVP_Prefix.pch.gch iTVP_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-r0
-
-CTouch /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app
-s315239292.167682
-e315239292.171374
-r1
-xTouch
-x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app
-lSLF07#2@101"Touch /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app315239292#315239292#0(0"0(0#0#0"8611551392#313"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphonesimulator/iTVP.app0#
-
