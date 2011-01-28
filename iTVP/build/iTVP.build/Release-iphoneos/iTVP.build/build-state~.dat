@@ -1,0 +1,855 @@
+TiTVP
+v7
+r0
+t315239087.816187
+cCheck dependencies
+cProcessInfoPlistFile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/Info.plist iTVP-Info.plist
+cCompileXIB /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainWindow.xib
+cCompileXIB /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.xib
+cCompileXIB /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.xib
+cCopyPNGFile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/offbutton40x40.png ../offbutton40x40.png
+cCopyPNGFile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/onbutton40x40.png ../onbutton40x40.png
+cCopyPNGFile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/offbutton.png ../offbutton.png
+cCopyPNGFile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/onbutton.png ../onbutton.png
+cCompileXIB /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.xib
+cCpResource build/Release-iphoneos/iTVP.app/teste.xml teste.xml
+cCopyPNGFile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/logo.png ../../../Desktop/logo.png
+cCopyPNGFile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/icon.png ../../../Desktop/icon.png
+cProcessPCH /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-fwxtnqeogfoaufglvuqokgwehber/iTVP_Prefix.pch.gch iTVP_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-bargjoufdphvltetatupdnrmvfgc/iTVP_Prefix.pch.gch iTVP_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/main.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/iTVPAppDelegate.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/Classes/iTVPAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/MainViewController.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/NodeListViewController.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/ITVPNode.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPNode.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/DetailNodeViewController.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/ITVPXMLReader.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPXMLReader.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/MyAnnotation.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MyAnnotation.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/main.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/iTVP normal armv6
+cCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/iTVPAppDelegate.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/Classes/iTVPAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/MainViewController.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/NodeListViewController.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/ITVPNode.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPNode.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/DetailNodeViewController.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/ITVPXMLReader.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPXMLReader.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/MyAnnotation.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MyAnnotation.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/iTVP normal armv7
+cCreateUniversalBinary /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/iTVP normal "armv6 armv7"
+cGenerateDSYMFile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app.dSYM /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/iTVP
+cTouch /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app
+cValidate /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004D19E8220000000000000132
+t1293543458
+s306
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC11D4800000000000002FE
+t1287724360
+s766
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC11D62000000000029CFA0
+t1287724386
+s2740128
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/stdio.h
+c000000004CB3E4B800000000000040AC
+t1286857912
+s16556
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../../../Desktop/icon.png
+c000000004D19D1800000000000002CA6
+t1293537664
+s11430
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../../../Desktop/logo.png
+c000000004D19D1800000000000002CA6
+t1293537664
+s11430
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../../../Downloads/NodeStatus/res/drawable-mdpi/icon.png
+c000000004D1898E20000000000001049
+t1293457634
+s4169
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../itvplogo.png
+c000000004D14A3B10000000000002BE6
+t1293198257
+s11238
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../offbutton.png
+c000000004D15F3AE000000000000F028
+t1293284270
+s61480
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../offbutton40x40.png
+c000000004D15F42C0000000000001B88
+t1293284396
+s7048
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../onbutton.png
+c000000004D15F3A0000000000000F0BC
+t1293284256
+s61628
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../onbutton40x40.png
+c000000004D15F4100000000000001B9E
+t1293284368
+s7070
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/Classes/iTVPAppDelegate.h
+c000000004D149D7C00000000000001CA
+t1293196668
+s458
+i<UIKit/UIKit.h>
+i"MainViewController.h"
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/Classes/iTVPAppDelegate.m
+c000000004D149D9F0000000000000AD4
+t1293196703
+s2772
+i"iTVPAppDelegate.h"
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.h
+c000000004D164B5900000000000002DE
+t1293306713
+s734
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i"ITVPNode.h"
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.m
+c000000004D18CF5900000000000008E7
+t1293471577
+s2279
+i"DetailNodeViewController.h"
+i"MyAnnotation.h"
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.xib
+c000000004D19DAE500000000000076AF
+t1293540069
+s30383
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPNode.h
+c000000004D18A323000000000000033F
+t1293460259
+s831
+i<Foundation/Foundation.h>
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPNode.m
+c000000004D18A328000000000000028D
+t1293460264
+s653
+i"ITVPNode.h"
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPXMLReader.h
+c000000004D18A85E00000000000001F2
+t1293461598
+s498
+i<Foundation/Foundation.h>
+i"ITVPNode.h"
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPXMLReader.m
+c000000004D19EEF90000000000000E75
+t1293545209
+s3701
+i"ITVPXMLReader.h"
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.h
+c000000004D18A929000000000000024C
+t1293461801
+s588
+i<UIKit/UIKit.h>
+i"NodeListViewController.h"
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.m
+c000000004D18CC3C0000000000000F0B
+t1293470780
+s3851
+i"MainViewController.h"
+i"ITVPXMLReader.h"
+i<stdio.h>
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.xib
+c000000004D19EC87000000000000641E
+t1293544583
+s25630
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainWindow.xib
+c000000004D149C6800000000000020F9
+t1293196392
+s8441
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MyAnnotation.h
+c000000004D18CFF300000000000001EB
+t1293471731
+s491
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MyAnnotation.m
+c000000004D18CFFC0000000000000141
+t1293471740
+s321
+i"MyAnnotation.h"
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.h
+c000000004D18AA410000000000000413
+t1293462081
+s1043
+i<UIKit/UIKit.h>
+i"DetailNodeViewController.h"
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.m
+c000000004D18AA5B0000000000001438
+t1293462107
+s5176
+i"NodeListViewController.h"
+i"ITVPNode.h"
+i<MapKit/MapKit.h>
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.xib
+c000000004D19DB470000000000005EEC
+t1293540167
+s24300
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app
+t1293546287
+s544
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app.dSYM
+t1293546287
+s102
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/DetailNodeViewController.nib
+t1293546286
+s2938
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/Info.plist
+t1293546284
+s709
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/MainViewController.nib
+t1293546285
+s2550
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/MainWindow.nib
+t1293546285
+s981
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/NodeListViewController.nib
+t1293546285
+s1546
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/PkgInfo
+t1293546284
+s8
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/iTVP
+t1293546287
+s102232
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/icon.png
+t1293546286
+s12051
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/itvplogo.png
+t1293545409
+s12885
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/logo.png
+t1293546286
+s12051
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/offbutton.png
+t1293546285
+s60589
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/offbutton40x40.png
+t1293546285
+s6765
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/onbutton.png
+t1293546286
+s60642
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/onbutton40x40.png
+t1293546285
+s6775
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/teste.xml
+t1293546286
+s511
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/DetailNodeViewController.o
+t1293546286
+s48752
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/ITVPNode.o
+t1293546286
+s12880
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/ITVPXMLReader.o
+t1293546286
+s23084
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/MainViewController.o
+t1293546286
+s55936
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/MyAnnotation.o
+t1293546286
+s10156
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/NodeListViewController.o
+t1293546286
+s59536
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/iTVP
+t1293546287
+s48984
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/iTVP.LinkFileList
+c000000004D19F32C0000000000000464
+t1293546284
+s1124
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/iTVPAppDelegate.o
+t1293546286
+s51340
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/main.o
+t1293546286
+s6548
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/DetailNodeViewController.o
+t1293546287
+s48852
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/ITVPNode.o
+t1293546287
+s12884
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/ITVPXMLReader.o
+t1293546287
+s23124
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/MainViewController.o
+t1293546287
+s55904
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/MyAnnotation.o
+t1293546287
+s10160
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/NodeListViewController.o
+t1293546287
+s59504
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/iTVP
+t1293546287
+s48984
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/iTVP.LinkFileList
+c000000004D19F32C0000000000000464
+t1293546284
+s1124
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/iTVPAppDelegate.o
+t1293546287
+s51340
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/main.o
+t1293546287
+s6524
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/iTVP_Prefix.pch
+c000000004D149C6800000000000000B1
+t1293196392
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/main.m
+c000000004D149C680000000000000164
+t1293196392
+s356
+i<UIKit/UIKit.h>
+
+N/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/teste.xml
+c000000004D19D72600000000000001FF
+t1293539110
+s511
+
+N/var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-bargjoufdphvltetatupdnrmvfgc/iTVP_Prefix.pch.gch
+t1293543593
+s10249944
+
+N/var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-fwxtnqeogfoaufglvuqokgwehber/iTVP_Prefix.pch.gch
+t1293543594
+s9783000
+
+NiTVP-Info.plist
+c000000004D149C68000000000000038D
+t1293196392
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315239084#315239084#0(0"0(0#1#0"8618587872#0"0#
+
+CCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/DetailNodeViewController.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315239086.689617
+e315239086.878567
+r1
+xCompileC
+xbuild/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/DetailNodeViewController.o
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.m315239086#315239086#0(0"0(0#0#83"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.m8619218912#1944"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources/armv6 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-fwxtnqeogfoaufglvuqokgwehber/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/DetailNodeViewController.o0#
+
+CCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/ITVPNode.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPNode.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315239086.588453
+e315239086.689518
+r1
+xCompileC
+xbuild/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/ITVPNode.o
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPNode.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPNode.m315239086#315239086#0(0"0(0#0#67"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPNode.m8618176448#1912"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources/armv6 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-fwxtnqeogfoaufglvuqokgwehber/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPNode.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/ITVPNode.o0#
+
+CCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/ITVPXMLReader.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPXMLReader.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315239086.783454
+e315239086.943743
+r1
+xCompileC
+xbuild/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/ITVPXMLReader.o
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPXMLReader.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPXMLReader.m315239086#315239086#0(0"0(0#0#72"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPXMLReader.m8618409792#1922"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources/armv6 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-fwxtnqeogfoaufglvuqokgwehber/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPXMLReader.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/ITVPXMLReader.o0#
+
+CCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/MainViewController.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315239086.411797
+e315239086.588354
+r1
+xCompileC
+xbuild/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/MainViewController.o
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.m315239086#315239086#0(0"0(0#0#77"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.m8618531552#1932"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources/armv6 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-fwxtnqeogfoaufglvuqokgwehber/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/MainViewController.o0#
+
+CCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/MyAnnotation.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MyAnnotation.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315239086.878669
+e315239086.967365
+r1
+xCompileC
+xbuild/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/MyAnnotation.o
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MyAnnotation.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MyAnnotation.m315239086#315239086#0(0"0(0#0#71"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MyAnnotation.m8617336736#1920"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources/armv6 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-fwxtnqeogfoaufglvuqokgwehber/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MyAnnotation.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/MyAnnotation.o0#
+
+CCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/NodeListViewController.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315239086.491140
+e315239086.783353
+r1
+xCompileC
+xbuild/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/NodeListViewController.o
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.m315239086#315239086#0(0"0(0#0#81"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.m8618316960#1940"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources/armv6 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-fwxtnqeogfoaufglvuqokgwehber/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/NodeListViewController.o0#
+
+CCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/iTVPAppDelegate.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/Classes/iTVPAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315239086.348374
+e315239086.491039
+r1
+xCompileC
+xbuild/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/iTVPAppDelegate.o
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/Classes/iTVPAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/Classes/iTVPAppDelegate.m315239086#315239086#0(0"0(0#0#82"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/Classes/iTVPAppDelegate.m8618734496#1934"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources/armv6 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-fwxtnqeogfoaufglvuqokgwehber/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/Classes/iTVPAppDelegate.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/iTVPAppDelegate.o0#
+
+CCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/main.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315239086.347304
+e315239086.411683
+r1
+xCompileC
+xbuild/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/main.o
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/main.m315239086#315239086#0(0"0(0#0#63"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/main.m8618855264#1904"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources/armv6 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-fwxtnqeogfoaufglvuqokgwehber/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/main.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/DetailNodeViewController.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315239087.325754
+e315239087.491386
+r1
+xCompileC
+xbuild/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/DetailNodeViewController.o
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.m315239087#315239087#0(0"0(0#0#83"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.m8610857248#1944"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources/armv7 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-bargjoufdphvltetatupdnrmvfgc/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/DetailNodeViewController.o0#
+
+CCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/ITVPNode.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPNode.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315239087.229411
+e315239087.325655
+r1
+xCompileC
+xbuild/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/ITVPNode.o
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPNode.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPNode.m315239087#315239087#0(0"0(0#0#67"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPNode.m8618186816#1912"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources/armv7 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-bargjoufdphvltetatupdnrmvfgc/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPNode.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/ITVPNode.o0#
+
+CCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/ITVPXMLReader.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPXMLReader.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315239087.450125
+e315239087.624893
+r1
+xCompileC
+xbuild/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/ITVPXMLReader.o
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPXMLReader.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPXMLReader.m315239087#315239087#0(0"0(0#0#72"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPXMLReader.m8618832768#1922"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources/armv7 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-bargjoufdphvltetatupdnrmvfgc/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/ITVPXMLReader.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/ITVPXMLReader.o0#
+
+CCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/MainViewController.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315239087.044888
+e315239087.229307
+r1
+xCompileC
+xbuild/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/MainViewController.o
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.m315239087#315239087#0(0"0(0#0#77"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.m8619223840#1932"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources/armv7 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-bargjoufdphvltetatupdnrmvfgc/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/MainViewController.o0#
+
+CCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/MyAnnotation.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MyAnnotation.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315239087.491486
+e315239087.569911
+r1
+xCompileC
+xbuild/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/MyAnnotation.o
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MyAnnotation.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MyAnnotation.m315239087#315239087#0(0"0(0#0#71"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MyAnnotation.m8618239392#1920"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources/armv7 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-bargjoufdphvltetatupdnrmvfgc/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MyAnnotation.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/MyAnnotation.o0#
+
+CCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/NodeListViewController.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315239087.151833
+e315239087.450026
+r1
+xCompileC
+xbuild/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/NodeListViewController.o
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.m315239087#315239087#0(0"0(0#0#81"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.m8618746016#1940"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources/armv7 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-bargjoufdphvltetatupdnrmvfgc/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/NodeListViewController.o0#
+
+CCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/iTVPAppDelegate.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/Classes/iTVPAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315239087.005253
+e315239087.151734
+r1
+xCompileC
+xbuild/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/iTVPAppDelegate.o
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/Classes/iTVPAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/Classes/iTVPAppDelegate.m315239087#315239087#0(0"0(0#0#82"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/Classes/iTVPAppDelegate.m8610778016#1934"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources/armv7 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-bargjoufdphvltetatupdnrmvfgc/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/Classes/iTVPAppDelegate.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/iTVPAppDelegate.o0#
+
+CCompileC build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/main.o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315239086.943890
+e315239087.044686
+r1
+xCompileC
+xbuild/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/main.o
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/main.m315239086#315239087#0(0"0(0#0#63"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/main.m8610275488#1904"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources/armv7 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-bargjoufdphvltetatupdnrmvfgc/iTVP_Prefix.pch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/main.m -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.xib
+s315239085.746424
+e315239086.346974
+r1
+xCompileXIB
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.xib
+lSLF07#2@39"CompileXIB DetailNodeViewController.xib315239085#315239086#0(0"0(0#0#85"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.xib8619684800#623"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/DetailNodeViewController.nib /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/DetailNodeViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.xib
+s315239084.712474
+e315239085.287772
+r1
+xCompileXIB
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.xib
+lSLF07#2@33"CompileXIB MainViewController.xib315239084#315239085#0(0"0(0#0#79"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.xib8611210080#611"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/MainViewController.nib /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainWindow.xib
+s315239084.711737
+e315239085.162170
+r1
+xCompileXIB
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib315239084#315239085#0(0"0(0#0#71"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainWindow.xib8618228928#595"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/MainWindow.nib /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.xib
+s315239085.162264
+e315239085.640954
+r1
+xCompileXIB
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.xib
+lSLF07#2@37"CompileXIB NodeListViewController.xib315239085#315239085#0(0"0(0#0#83"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.xib8618294048#619"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/NodeListViewController.nib /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/NodeListViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPNGFile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/icon.png ../../../Desktop/icon.png
+s315239086.194188
+e315239086.255496
+r1
+xCopyPNGFile
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/icon.png
+x../../../Desktop/icon.png
+lSLF07#2@78"CopyPNGFile build/Release-iphoneos/iTVP.app/icon.png ../../../Desktop/icon.png315239086#315239086#0(0"0(0#0#82"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../../../Desktop/icon.png8618158976#626"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../../../Desktop/icon.png /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/icon.png0#
+
+CCopyPNGFile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/icon.png ../../../Downloads/NodeStatus/res/drawable-mdpi/icon.png
+s315238210.592952
+e315238210.635536
+r1
+xCopyPNGFile
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/icon.png
+x../../../Downloads/NodeStatus/res/drawable-mdpi/icon.png
+lSLF07#2@109"CopyPNGFile build/Release-iphoneos/iTVP.app/icon.png ../../../Downloads/NodeStatus/res/drawable-mdpi/icon.png315238210#315238210#0(0"0(0#0#113"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../../../Downloads/NodeStatus/res/drawable-mdpi/icon.png8603323232#657"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../../../Downloads/NodeStatus/res/drawable-mdpi/icon.png /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/icon.png0#
+
+CCopyPNGFile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/itvplogo.png ../itvplogo.png
+s315238209.587103
+e315238209.797515
+r1
+xCopyPNGFile
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/itvplogo.png
+x../itvplogo.png
+lSLF07#2@72"CopyPNGFile build/Release-iphoneos/iTVP.app/itvplogo.png ../itvplogo.png315238209#315238209#0(0"0(0#0#72"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../itvplogo.png8611626464#620"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../itvplogo.png /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/itvplogo.png0#
+
+CCopyPNGFile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/logo.png ../../../Desktop/logo.png
+s315239086.133567
+e315239086.194089
+r1
+xCopyPNGFile
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/logo.png
+x../../../Desktop/logo.png
+lSLF07#2@78"CopyPNGFile build/Release-iphoneos/iTVP.app/logo.png ../../../Desktop/logo.png315239086#315239086#0(0"0(0#0#82"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../../../Desktop/logo.png8619538496#626"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../../../Desktop/logo.png /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/logo.png0#
+
+CCopyPNGFile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/offbutton.png ../offbutton.png
+s315239085.347840
+e315239085.746331
+r1
+xCopyPNGFile
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/offbutton.png
+x../offbutton.png
+lSLF07#2@74"CopyPNGFile build/Release-iphoneos/iTVP.app/offbutton.png ../offbutton.png315239085#315239085#0(0"0(0#0#73"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../offbutton.png8617508608#622"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../offbutton.png /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/offbutton.png0#
+
+CCopyPNGFile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/offbutton40x40.png ../offbutton40x40.png
+s315239085.287866
+e315239085.318351
+r1
+xCopyPNGFile
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/offbutton40x40.png
+x../offbutton40x40.png
+lSLF07#2@84"CopyPNGFile build/Release-iphoneos/iTVP.app/offbutton40x40.png ../offbutton40x40.png315239085#315239085#0(0"0(0#0#78"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../offbutton40x40.png8618145728#632"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../offbutton40x40.png /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/offbutton40x40.png0#
+
+CCopyPNGFile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/onbutton.png ../onbutton.png
+s315239085.641044
+e315239086.132449
+r1
+xCopyPNGFile
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/onbutton.png
+x../onbutton.png
+lSLF07#2@72"CopyPNGFile build/Release-iphoneos/iTVP.app/onbutton.png ../onbutton.png315239085#315239086#0(0"0(0#0#72"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../onbutton.png8611946240#620"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../onbutton.png /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/onbutton.png0#
+
+CCopyPNGFile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/onbutton40x40.png ../onbutton40x40.png
+s315239085.318441
+e315239085.347747
+r1
+xCopyPNGFile
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/onbutton40x40.png
+x../onbutton40x40.png
+lSLF07#2@82"CopyPNGFile build/Release-iphoneos/iTVP.app/onbutton40x40.png ../onbutton40x40.png315239085#315239085#0(0"0(0#0#77"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../onbutton40x40.png8617822976#630"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/../onbutton40x40.png /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/onbutton40x40.png0#
+
+CCpResource build/Release-iphoneos/iTVP.app/teste.xml teste.xml
+s315239086.132542
+e315239086.140813
+r1
+xCpResource
+xbuild/Release-iphoneos/iTVP.app/teste.xml
+xteste.xml
+lSLF07#2@14"Copy teste.xml315239086#315239086#0(0"0(0#0#66"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/teste.xml8619908352#527"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/teste.xml /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app0#
+
+CCreateUniversalBinary /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/iTVP normal "armv6 armv7"
+s315239087.659849
+e315239087.663339
+r1
+xCreateUniversalBinary
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/iTVP
+xnormal
+xarmv6 armv7
+lSLF07#2@79"CreateUniversalBinary build/Release-iphoneos/iTVP.app/iTVP normal "armv6 armv7"315239087#315239087#0(0"0(0#0#68"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/armv6 armv78610375392#572"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/iTVP /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/iTVP -output /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/iTVP0#
+
+CGenerateDSYMFile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app.dSYM /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/iTVP
+s315239087.663430
+e315239087.704726
+r1
+xGenerateDSYMFile
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app.dSYM
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/iTVP
+lSLF07#2@90"GenerateDSYMFile build/Release-iphoneos/iTVP.app.dSYM build/Release-iphoneos/iTVP.app/iTVP315239087#315239087#0(0"0(0#0#93"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/iTVP8608677664#411"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/iTVP -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app.dSYM0#
+
+CLd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/iTVP normal armv6
+s315239086.967459
+e315239087.004985
+r1
+xLd
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/iTVP
+xnormal
+xarmv6
+lSLF07#2@132"Link /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/iTVP315239086#315239087#0(0"0(0#0#0"8611482016#957"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos -filelist /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/iTVP.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv6/iTVP0#
+
+CLd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/iTVP normal armv7
+s315239087.624981
+e315239087.659746
+r1
+xLd
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/iTVP
+xnormal
+xarmv7
+lSLF07#2@132"Link /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/iTVP315239087#315239087#0(0"0(0#0#0"8611228320#957"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos -filelist /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/iTVP.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/Objects-normal/armv7/iTVP0#
+
+CProcessInfoPlistFile /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/Info.plist iTVP-Info.plist
+s315239084.708488
+e315239084.711654
+r1
+xProcessInfoPlistFile
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/Info.plist
+xiTVP-Info.plist
+lSLF07#2@23"Process iTVP-Info.plist315239084#315239084#0(0"0(0#0#72"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/iTVP-Info.plist8618998944#500"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iTVP-Info.plist -genpkginfo /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -o /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app/Info.plist0#
+
+CProcessPCH /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-bargjoufdphvltetatupdnrmvfgc/iTVP_Prefix.pch.gch iTVP_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315236393.114566
+e315236394.094375
+r1
+xProcessPCH
+x/var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-bargjoufdphvltetatupdnrmvfgc/iTVP_Prefix.pch.gch
+xiTVP_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile iTVP_Prefix.pch315236393#315236394#0(0"0(0#0#72"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/iTVP_Prefix.pch8601407776#1785"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources/armv7 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/iTVP_Prefix.pch -o /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-bargjoufdphvltetatupdnrmvfgc/iTVP_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-fwxtnqeogfoaufglvuqokgwehber/iTVP_Prefix.pch.gch iTVP_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315236393.113639
+e315236394.168458
+r1
+xProcessPCH
+x/var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-fwxtnqeogfoaufglvuqokgwehber/iTVP_Prefix.pch.gch
+xiTVP_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile iTVP_Prefix.pch315236393#315236394#0(0"0(0#0#72"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/iTVP_Prefix.pch8599288896#1785"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-generated-files.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-own-target-headers.hmap -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-all-target-headers.hmap -iquote /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/iTVP-project-headers.hmap -F/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/include -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources/armv6 -I/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/iTVP.build/Release-iphoneos/iTVP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/iTVP_Prefix.pch -o /var/folders/m8/m86LcvTTG5y1aXDJjEbfvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTVP_Prefix-fwxtnqeogfoaufglvuqokgwehber/iTVP_Prefix.pch.gch0#
+
+CTouch /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app
+s315239087.704814
+e315239087.708464
+r1
+xTouch
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app
+lSLF07#2@94"Touch /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app315239087#315239087#0(0"0(0#0#0"8610120320#299"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app0#
+
+CValidate /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app
+s315239087.708550
+e315239087.816051
+r1
+xValidate
+x/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app
+o2010-12-28 11:24:47.725 Validation[8364:607] *** Warning: Defaulting to the standard codesign tool
+owarning: iPhone/iPod Touch: icon.png: icon dimensions (99 x 100) don't meet the size requirements.  The icon file must be 57x57 pixels, in .png format (-19014)
+oUnable to validate your application. - (null)
+o
+owarning: Application failed codesign verification.  The signature was invalid, or it was not signed with an Apple submission certificate. (-19011)
+o/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app: code object is not signed
+o - (null)
+o
+owarning: Unable to extract codesigning entitlements from your application.  Please make sure iTVP.app is a valid Mach executable that's properly codesigned. (-19050)
+o/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app: code object is not signed
+o - (null)
+o
+lSLF07#2@40"Validate build/Release-iphoneos/iTVP.app315239087#315239087#0(873"2010-12-28 11:24:47.725 Validation[8364:607] *** Warning: Defaulting to the standard codesign toolwarning: iPhone/iPod Touch: icon.png: icon dimensions (99 x 100) don't meet the size requirements.  The icon file must be 57x57 pixels, in .png format (-19014)Unable to validate your application. - (null)warning: Application failed codesign verification.  The signature was invalid, or it was not signed with an Apple submission certificate. (-19011)/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app: code object is not signed - (null)warning: Unable to extract codesigning entitlements from your application.  Please make sure iTVP.app is a valid Mach executable that's properly codesigned. (-19050)/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app: code object is not signed - (null)3(22@151" iPhone/iPod Touch: icon.png: icon dimensions (99 x 100) don't meet the size requirements.  The icon file must be 57x57 pixels, in .png format (-19014)315239087#18446744073709551615#0#0(6@0"315239087#0#0#0#0#0"0(22@138" Application failed codesign verification.  The signature was invalid, or it was not signed with an Apple submission certificate. (-19011)315239087#18446744073709551615#0#0(6@0"315239087#0#0#0#0#0"0(22@157" Unable to extract codesigning entitlements from your application.  Please make sure iTVP.app is a valid Mach executable that's properly codesigned. (-19050)315239087#18446744073709551615#0#0(6@0"315239087#0#0#0#0#0"0(0#0#88"/Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app8609850560#408"    cd /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation /Users/alexanderdealmeidapinto/Documents/IphoneApps/iTVP/build/Release-iphoneos/iTVP.app0#
+
